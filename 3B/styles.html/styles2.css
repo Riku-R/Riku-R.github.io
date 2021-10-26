@@ -4,6 +4,7 @@ body {
 }	
 
 #toinenkissa {
-	position:relative;
+	position:absolute;
 	top:100px;
 	left:600px;
+	right:50px;
