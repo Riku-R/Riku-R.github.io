@@ -1,3 +1,9 @@
 body {
 	background-image:url(https://i.imgur.com/hcgyQSy.png);
-	
+		
+}	
+
+#toinenkissa {
+	position:relative;
+	top:100px;
+	left:600px;
