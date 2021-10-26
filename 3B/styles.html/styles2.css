@@ -3,10 +3,6 @@ body {
 		
 }	
 
-#otsikko {
-	width:300px;
-	
-}
 #ekakissa {
 	width:450px;
 	height:250px
@@ -17,3 +13,11 @@ body {
 	left:800px;
 	width:700px;
 }
+
+h1 {
+	background-color:rgba(120,200,50,0.3);
+	font-size:30px;
+	color:#ffffff;
+	font-family:Verdana, Helvetica;
+	border-radius:15px;
+	
