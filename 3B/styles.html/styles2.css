@@ -4,12 +4,13 @@ body {
 }	
 
 #ekakissa {
-	width:400px;
+	width:450px;
+	height:250px
 	
 }
 #toinenkissa {
 	position:absolute;
 	top:50px;
-	left:700px;
+	left:800px;
 	width:700px;
 }
