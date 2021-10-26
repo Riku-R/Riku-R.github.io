@@ -5,10 +5,9 @@ body {
 
 figure {
 	position:absolute;
-	left:800px;
-	bottom:200px;
-	font-family:Verdana;
-	font-size:15px;
+	left:600px;
+	bottom:400px;
+	
 }
 
 h1 {
@@ -24,6 +23,7 @@ h1 {
 	
 
 p {
+	margin-left:30px;
 	width:300px;
 	border-radius:5px;
 	font-family:Verdana;
