@@ -3,10 +3,6 @@ body {
 		
 }	
 
-#otsikko {
-	width:400px;
-	
-}
 figure {
 	position:absolute;
 	left:800px;
@@ -15,6 +11,7 @@ figure {
 
 h1 {
 	background-color:rgba(250,250,250,0.4);
+	width:250px;
 	font-size:30px;
 	color:green;
 	font-family:Verdana, Helvetica;
