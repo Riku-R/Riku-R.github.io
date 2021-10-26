@@ -7,7 +7,7 @@ figure {
 	position:absolute;
 	left:800px;
 	bottom:200px;
-	font-family:Helvetica;
+	font-family:Verdana;
 	font-size:15px;
 }
 
@@ -16,20 +16,17 @@ h1 {
 	width:380px;
 	font-size:30px;
 	color:green;
-	font-family:Verdana, Helvetica;
+	font-family:Verdana, Verdana;
 	border-radius:15px;
 	padding:10px 10px;
 }
 
-progress {
-	color:white;
-	font-family:Helvetica;
-}	
+	
 
 p {
 	width:300px;
 	border-radius:5px;
-	font-family:Helvetica;
+	font-family:Verdana;
 	background-color:rgba(250,50,50,0.4);
 	font-size:15px;
 	padding:5px 5px;
