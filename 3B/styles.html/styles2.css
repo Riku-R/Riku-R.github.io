@@ -3,6 +3,10 @@ body {
 		
 }	
 
+#otsikko {
+	width:400px;
+	
+}
 figure {
 	position:absolute;
 	left:800px;
