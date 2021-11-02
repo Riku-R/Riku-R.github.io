@@ -13,7 +13,7 @@ body {
 
 .nav {
     float:left;
-    width:20%;
+    width:30%;
     background-color: rebeccapurple;
     height:250px;
 }
@@ -30,11 +30,6 @@ ul {
     list-style-type: none;
 }
 
-.section::after {
-    content: "";
-    display:table;
-    clear:both;
-}
 
 .footer {
     background-color:rgb(227, 238, 77);
