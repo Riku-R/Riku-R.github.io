@@ -19,21 +19,28 @@ body {
     width:30%;
     background-color: rgb(252, 181, 208);
     height:250px;
-    padding:10px;
+
 }
 
 .article {
-    float:right;
+    float:left;
     width:70%;
     background-color: turquoise;
     color:black;
     height:250px;
-    padding:10px;
+}
+.article p {
+    padding-left:10px;
+}
+
+.article h3 {
+    padding-left:10px;
 }
 
 ul {
     list-style-type: none;
-    padding:10px;
+    padding-left:30px;
+    padding-top:10px;
 }
 
 .section::after {
