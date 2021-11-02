@@ -15,7 +15,7 @@ body {
 }
 
 .nav {
-
+    float:left;
     width:30%;
     background-color: rgb(252, 181, 208);
     height:250px;
@@ -23,7 +23,7 @@ body {
 }
 
 .article {
-
+    float:right;
     width:70%;
     background-color: turquoise;
     color:black;
