@@ -18,6 +18,7 @@ body {
     background-color: rebeccapurple;
     color:seashell;
     padding:15px;
+    height: 250px;
 }
 
 .article {
@@ -26,10 +27,17 @@ body {
     padding:15px;
     background-color: turquoise;
     color:black;
+    height:250px;
 }
 
 ul {
     list-style-type: none;
+}
+
+section::after {
+    content: "";
+    display:table;
+    clear:both;
 }
 
 .footer {
