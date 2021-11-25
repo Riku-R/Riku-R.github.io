@@ -1,1 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="styletable.css">
+    <title>Tableform</title>
+  </head>
+<body>
+    <table>
+        <caption>Monthly spending and savings</caption>
+        <tr>
+            <th>Month</th>
+            <th>Spending (€)</th>
+            <th>Savings (€)</th>
+        </tr>
+        <tr>
+            <td>January</td>
+            <td>1200</td>
+            <td>200</td>
 
+        </tr>
+        <tr>
+        <td>February</td>
+        <td>1100</td>
+        <td>350</td>
+        </tr>
+        <tr>
+            <td>March</td>
+            <td>1250</td>
+            <td>100</td>
+        </tr>
+        <tr>
+            <td>April</td>
+            <td>1150</td>
+            <td>200</td>  
+        </tr>
+    </table>
+    <form>
+        <fieldset>
+        <legend>Personal information</legend>
+        <label for="fname">First name:</label>
+        <input type="text" id="fname" name="fname" required>
+        <br>
+        <label for="lname">Last name:</label>
+        <input type="text" id="lname" name="lname" required>
+        <br>
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required>
+        <br>
+        <p>More information (optional)</p>
+        <textarea></textarea>
+        </fieldset>
+        <br>
+        <label for="pets">What pet do you have?</label>
+        <select name="pets" id="pets">
+            <option value="Cat">Cat</option>
+            <option value="Dog">Dog</option>
+            <option value="Something else">Something else</option>
+            <option value="No pet">No pet</option>
+        </select>
+        <br><br>
+        <label for="checkbox">I want to sign up for a newsletter!</label>
+        <input type="checkbox" id="checkbox">
+        <br><br>
+        <label for="submit">Submit</label>
+        <input type="submit" id="submit" value="Submit">
+        <br><br>
+        <input type="submit" value="Add new user"> 
+    </form>
+</body>
+</html>
