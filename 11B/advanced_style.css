@@ -1,1 +1,62 @@
+body {
+    background: white;
+    color: black;
+    font-family: Bradley Hand ITC, Verdana, Helvetica;
+}
 
+.boxshadow {
+    box-shadow: 5px 10px 20px green;
+    height: 60px;
+    width: 200px;
+}
+
+.boxp {
+    padding: 25px 0px;
+    text-align: center;
+}
+
+.shadowh {
+    text-shadow: 2px 2px 7px rgb(239, 137, 248);
+    font-size: 40px;
+}
+
+.shadowp {
+    text-shadow: 1px 1px;
+    font-size: 20px;
+}
+
+.bgsize {
+    height: 400px;
+    width: 800px;
+    background: url(https://seura.fi/awpo/img/2021/09/kissatweb1-1920x1080.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: hotpink;
+    font-size: 3rem;
+    border: 5px dotted;
+    box-shadow: 5px 10px 20px;
+}
+
+.google {
+    font-size: 30px;
+    text-decoration:none;
+    color:black;
+}
+.starwars {
+    font-size: 30px;
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    color:red;
+    transition-duration: 1500ms;
+}
+
+@media only screen and (max-width: 800px) {
+    body {
+        background:lightblue;
+        color:white;
+    }
+} 
+    
