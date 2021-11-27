@@ -1,0 +1,34 @@
+h1 {
+    margin: 100px auto auto auto;
+    font-size: 4rem;
+    height: 70px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.tausta {
+    background: rgb(202, 202, 202);
+    height: 300px;
+    display: grid;
+}
+
+.napit {
+    margin: auto;
+    padding-bottom: 60px;
+}
+
+#kissa {
+    height: 30%;
+    width: 30%;
+    
+}
+
+.kissatausta {
+    padding-left: 50px;
+    background:rgb(231, 230, 230);
+}
+
+h3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    float: right;
+    padding-right: 50%;
+}
