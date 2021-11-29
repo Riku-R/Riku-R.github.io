@@ -220,5 +220,10 @@ li {
         grid-column: 1;
         grid-row: 6;
     }
+
+    .logo {
+        height: 250px;
+        width: auto;    
+    }
 }
 
