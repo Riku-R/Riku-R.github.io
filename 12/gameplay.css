@@ -260,5 +260,8 @@ li {
         grid-row: 9;
     }
 
-
+    .logo {
+        height: 250px;
+        width: auto;    
+    }
 }
