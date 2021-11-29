@@ -171,6 +171,7 @@ li {
     .tekstidiv1 {
         grid-column: 1;
         grid-row: 3;
+        margin-right: 40px;
     }
     .kuvadiv1 {
         grid-column: 1;
@@ -198,6 +199,7 @@ li {
         grid-column: 1;
         grid-row: 7;
         margin-left: 40px;
+        margin-right: 40px;
     }
 
     .kuvadiv3 {
