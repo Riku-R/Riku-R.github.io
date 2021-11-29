@@ -158,6 +158,10 @@ li {
     border-radius: 10px;
 }
 
+li:not(:first-child) {
+    margin-top: 100px;
+}
+
 
 @media only screen and (max-width:1260px) {
     .navitem1, .navitem2 {
@@ -208,6 +212,7 @@ li {
         margin-left: 40px;
     }
 }
+
 
 @media only screen and (max-width:845px) {
     
