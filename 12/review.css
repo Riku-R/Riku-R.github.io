@@ -150,11 +150,16 @@ li {
     .tekstidiv1 {
         grid-column: 1;
         grid-row: 3;
+        margin-right: 40px;
     }
     .kuvadiv1 {
         grid-column: 1;
         grid-row: 4;
         margin-left: 40px;
+    }
+
+    .arvosteluteksti {
+        margin-right: 40px;
     }
     .kuvadiv2 {
         grid-column: 1;
