@@ -147,6 +147,7 @@ li {
     .tekstidiv1 {
         grid-column: 1;
         grid-row: 3;
+        margin-right: 40px;
     }
     .kuvadiv1 {
         grid-column: 1;
