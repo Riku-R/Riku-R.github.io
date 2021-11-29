@@ -230,7 +230,7 @@ li:not(:first-child) {
     }
 
     .otsikko {
-        font-size: 3em;
+        font-size: 5em;
         grid-column: 1;
         grid-row: 2;
     }  
