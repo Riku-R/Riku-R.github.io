@@ -213,4 +213,9 @@ li {
         grid-column: 1;
         grid-row: 7;
     }
+
+    .logo {
+        height: 250px;
+        width: auto;    
+    }
 }
